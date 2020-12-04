@@ -1,7 +1,9 @@
-# A sum test program
+# A program that prints 0
 y = 5
 x = 3
 
 z = y + x
 
-print(z)
+t = 0
+
+print(t)
